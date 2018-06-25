@@ -1,0 +1,231 @@
+
+@media only screen and (max-width: 768px){
+  .main-slider .owl-item .nav-item h2{
+    font-size: 50px;
+    position: initial;
+    top: inherit;
+    transform: none;
+  }
+  .main-slider .owl-item .nav-item h3{
+    top: inherit;
+    font-size: 33px;
+    position: initial;
+    transform: none;
+    padding:10px 0;
+  }
+  .main-slider .owl-item .nav-item h4{
+    top: 258px;
+    font-size: 18px;
+    top: inherit;
+    position: initial;
+    transform: none;
+  }
+.main-slider .nav-item{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    bottom:inherit!important;
+}
+
+.logo-menu{
+    display: none;
+  }
+  .click-menu-mobile{
+    padding-left: 23px;
+    color: #fff;
+  }
+  #main{
+    overflow: hidden;
+
+  }
+  #sticky-wrapper{
+    position: relative;
+    z-index: 99;
+  }
+  .header-mobile{
+    background: #0eb493;
+    position: relative;
+    z-index: 99;
+  }
+  .top-main{
+    margin-top: 0;
+    padding: 62px 0 50px 0;
+  }
+  .top-main .item{
+        padding-bottom: 41px;
+  }
+  .about-home{
+    margin-top: 94px;
+  }
+  .nav-abouthome{
+        margin-top: 41px;
+  }
+  h2.title-primary{
+    padding: 0 0 3px 25px
+  }
+  h2.title-primary span{
+       padding: 3px 25px 0 0;
+  }
+  .nav-abouthome .images-bout{
+        text-align: center;
+    padding-bottom: 26px;
+  }
+  .we-lorem{
+    margin-top: 59px;
+    padding-top: 71px;
+    padding-bottom: 92px;
+  }
+  .we-lorem h4{
+    font-size: 39px;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .out-team{
+    margin-top: 52px;
+  }
+  .slider-out-team .owl-nav{
+    display: none;
+  }
+  .slider-out-team{
+        margin-top: 40px;
+        padding-top: 0;
+  }
+  .our-skill{
+    margin-top: 37px;
+  }
+  .nav-ourkill{
+    margin-top: 19px;
+  }
+  .number-home{
+    padding-top: 59px;
+  }
+  .customer-reviews{
+    padding-top: 94px;
+  }
+  .nav-our-portfolio{
+    padding-top: 47px;
+  }
+  .portfolioFilter{
+    padding-top: 35px;
+    padding-bottom: 39px;
+  }
+  .get-in-touch {
+    margin-top: 62px;
+}
+.nav-in-touch {
+    margin-top: 42px;
+}
+.contact-adres .adress{
+  font-size: 19px;
+  padding-top: 6px;
+}
+.contact-adres .phone-contact{
+  padding-top: 7px;
+}
+.social-contact ul{
+  margin-top: 18px;
+}
+.main-menu-mobile li{
+  list-style: none;
+}
+.header-mobile{
+  display: block;
+}
+.sticky-wrapper{
+  height: auto!important
+}
+.nav-our-portfolio .item-images{
+  width: calc(100% / 2);
+}
+}
+@media only screen and (max-width: 736px){
+.about-home{
+      margin-top: 34px;
+}
+h2.title-primary{
+  font-size: 40px;
+}
+.nav-abouthome{
+  margin-top: 25px;
+}
+.contact-adres{
+  padding-top: 20px;
+}
+#footer .desc {
+    font-size: 40px;
+    padding-top: 49px;
+    padding-bottom: 20px;
+}
+.slider-feature{
+  margin-top: 30px;
+}
+.work-home {
+    margin-top: 26px;
+}
+.work-home .desc-primary {
+    padding-top: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.nav-our-portfolio {
+    padding-top: 10px;
+}
+.our-team {
+    margin-top: 29px;
+}
+.desc-primary{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.nav-some-fun .item{
+  padding-bottom: 20px;
+}
+.nav-some-fun .item .count{
+  font-size: 44px;
+}
+}
+@media only screen and (max-width: 530px){
+  .main-slider .owl-item .nav-item h2{
+        font-size: 30px;
+  }
+  .main-slider .owl-item .nav-item h3{
+    font-size: 18px;
+  }
+  .main-slider .owl-item .nav-item h4{
+    font-size: 15px;
+        line-height: 20px;
+  }
+  .we-lorem h4{
+    font-size: 24px;
+  }
+  .we-lorem{
+        padding-top: 50px;
+    padding-bottom: 39px;
+  }
+  .slider-out-team h3.name{
+    padding-top: 12px;
+  }
+  .number-home .item h3{
+    font-size: 45px;
+  }
+  .number-home{
+    padding-top: 30px;
+  }
+  .customer-reviews{
+        padding-top: 50px;
+  }
+  .slider-customer .desc{
+    font-size: 23px;
+  }
+  .portfolioFilter a{
+        padding: 4px 13px;
+        margin-right: 0;
+  }
+  .social-contact i{
+        width: 50px;
+    height: 50px;
+        line-height: 50px;
+  }
+}
